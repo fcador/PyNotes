@@ -3,3 +3,6 @@ notes_test.db
 __pycache__
 tests/__pycache__
 env
+dist
+build
+app.spec
